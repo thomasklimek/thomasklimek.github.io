@@ -196,3 +196,6 @@ footer p {
 img { display:block; height: auto; max-width: 100%; }
 .space1 { margin: 20px 0;}
 .space2 { height:100vh; 0;}
+a{
+    font-size:.85em;
+}
