@@ -197,13 +197,12 @@ footer p {
 }
 
 .col-md-3 {
-    height:100vh;
-    /*padding-bottom: 100%;
-    margin-bottom: -100%;*/
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
 }
 img { display:block; height: auto; max-width: 100%; }
 .space1 { margin: 20px 0;}
 .space2 { height:100vh; 0;}
 ul{
-    margin-left: 250px;
+    
 }
