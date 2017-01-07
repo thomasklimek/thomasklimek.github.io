@@ -68,7 +68,7 @@ hr {
 
 .brand-name {
     margin: 0;
-    font-size: 4em;
+    font-size: 2em;
 }
 
 .tagline-divider {
@@ -204,3 +204,6 @@ footer p {
 img { display:block; height: auto; max-width: 100%; }
 .space1 { margin: 20px 0;}
 .space2 { height:100vh; 0;}
+ul{
+    margin-left: 250px;
+}
