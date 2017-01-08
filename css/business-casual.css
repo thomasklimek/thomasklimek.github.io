@@ -240,3 +240,6 @@ a{
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
+.brand-name:hover {
+    font-weight:bold;
+};
